@@ -10,7 +10,7 @@ load_dotenv()
 API_ID = int(getenv("API_ID", "21840776"))
 API_HASH = getenv("API_HASH", "a83dc6bea8b64c2191b2fe631f1097a9")
 
-BOT_TOKEN = getenv("BOT_TOKEN", "")
+BOT_TOKEN = getenv("BOT_TOKEN", "6011721276:AAHuZuAAZ72oa1MKDWhfTuX01297YA4xzDg")
 
 MONGO_DB_URI = getenv("MONGO_DB_URI", None)
 
